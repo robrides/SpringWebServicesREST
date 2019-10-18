@@ -1,7 +1,7 @@
 # SpringWebServicesREST
 
 ## Overview
-This project demonstrates Restful Web Services using the Spring framework.
+This project demonstrates Restful Web Services using the Spring framework. The project is opensource and available to anyone who would like to learn to use REST with Spring.
 
 ### Available API Routes
 
