@@ -7,8 +7,6 @@ public class ExceptionResponse {
 	private String message;
 	private String details;
 	
-	
-	
 	public ExceptionResponse(Date timestamp, String message, String details) {
 		super();
 		this.timestamp = timestamp;
